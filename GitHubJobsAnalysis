@@ -16,3 +16,6 @@ These languages include:
 *PostgreSQL  
 *MongoDB  
 
+#Code Used
+**Python Version:** 3.7  
+**Packages:** requests, pandas  
