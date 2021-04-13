@@ -26,7 +26,7 @@ These languages include:
  
 # [Average Annual Salary by Language](https://github.com/mddang3/Projects/blob/61533a292966b2f8c5e7ff9d008859c1cfd9778d/WebScraping.ipynb)  
 
-**Code Used ** 
+**Code Used**  
 Python Version: 3.7  
 Packages: bs4, requests, pandas
 
