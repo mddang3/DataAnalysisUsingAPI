@@ -1,6 +1,6 @@
 # Michael Dang's Project Portfolio  
 
-# [Stock Comparisons Visualization](https://github.com/mddang3/Projects/blob/9b29b866b9d95ec1c3d5358d2c85c52569b2b1f5/Stock%20Tracker.ipynb)  
+## [Stock Comparisons Visualization](https://github.com/mddang3/Projects/blob/9b29b866b9d95ec1c3d5358d2c85c52569b2b1f5/Stock%20Tracker.ipynb)  
 
 **Code Used**  
 Python Version: 3.7  
