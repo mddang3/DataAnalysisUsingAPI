@@ -1,5 +1,16 @@
 # Michael Dang's Project Portfolio  
 
+# [Stock Comparisons Visualization](https://github.com/mddang3/Projects/blob/9b29b866b9d95ec1c3d5358d2c85c52569b2b1f5/Stock%20Tracker.ipynb)  
+
+**Code Used**  
+Python Version: 3.7
+Packages: yfinance, pandas, matplotlib.pyplot
+
+This program gathers stock data for Apple Inc. and Microsoft Corporation and visualizes the two companies so comparisons can be drawn between the two.  
+
+![](https://github.com/mddang3/Projects/blob/a7f5dbf37c2078101193a7d25a35b05acb70ac8c/stock%20price%20img.png)  
+![](https://github.com/mddang3/Projects/blob/a7f5dbf37c2078101193a7d25a35b05acb70ac8c/div%20yield%20img.png)
+
 # [GitHub Jobs Analysis](https://github.com/mddang3/Projects/blob/c119ad79365a647e1fb158cd4190a306106dadd7/GithubJobs.ipynb)
 
 **Code Used**  
