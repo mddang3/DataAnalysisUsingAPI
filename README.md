@@ -1,6 +1,6 @@
 # Michael Dang's Project Portfolio  
 
-## [Stock Comparisons Visualization](https://github.com/mddang3/Projects/blob/9b29b866b9d95ec1c3d5358d2c85c52569b2b1f5/Stock%20Tracker.ipynb)  
+## [Stock Comparisons Visualization](https://github.com/mddang3/Project_Portfolio/blob/c3e1bbc48f82d103f01e832dd0264f7443ee8cb7/Stock%20Tracker.ipynb)  
 
 **Code Used**  
 Python Version: 3.7  
@@ -11,7 +11,7 @@ This program gathers stock data for Apple Inc. and Microsoft Corporation using y
 ![](images/Stock_price.png)  
 ![](images/Div_yield.png)
 
-## [GitHub Jobs Analysis](https://github.com/mddang3/Projects/blob/c119ad79365a647e1fb158cd4190a306106dadd7/GithubJobs.ipynb)
+## [GitHub Jobs Analysis](https://github.com/mddang3/Project_Portfolio/blob/c3e1bbc48f82d103f01e832dd0264f7443ee8cb7/GithubJobs.ipynb)
 
 **Code Used**  
 Python Version: 3.7  
@@ -35,7 +35,7 @@ These languages include:
 
 ![](images/Number_of_jobs.png)
  
-## [Average Annual Salary by Language](https://github.com/mddang3/Projects/blob/61533a292966b2f8c5e7ff9d008859c1cfd9778d/WebScraping.ipynb)  
+## [Average Annual Salary by Language](https://github.com/mddang3/Project_Portfolio/blob/c3e1bbc48f82d103f01e832dd0264f7443ee8cb7/WebScraping.ipynb)  
 
 **Code Used**  
 Python Version: 3.7  
