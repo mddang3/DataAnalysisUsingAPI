@@ -11,7 +11,7 @@ This program gathers stock data for Apple Inc. and Microsoft Corporation using y
 ![](images/Stock_price.png)  
 ![](images/Div_yield.png)
 
-# [GitHub Jobs Analysis](https://github.com/mddang3/Projects/blob/c119ad79365a647e1fb158cd4190a306106dadd7/GithubJobs.ipynb)
+## [GitHub Jobs Analysis](https://github.com/mddang3/Projects/blob/c119ad79365a647e1fb158cd4190a306106dadd7/GithubJobs.ipynb)
 
 **Code Used**  
 Python Version: 3.7  
@@ -35,7 +35,7 @@ These languages include:
 
 ![](images/Number_of_jobs.png)
  
-# [Average Annual Salary by Language](https://github.com/mddang3/Projects/blob/61533a292966b2f8c5e7ff9d008859c1cfd9778d/WebScraping.ipynb)  
+## [Average Annual Salary by Language](https://github.com/mddang3/Projects/blob/61533a292966b2f8c5e7ff9d008859c1cfd9778d/WebScraping.ipynb)  
 
 **Code Used**  
 Python Version: 3.7  
