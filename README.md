@@ -1,5 +1,9 @@
 This repository contains various Python projects
 
+# Code Used  
+**Python Version:** 3.7  
+**Packages:** requests, pandas  
+
 # [GitHub Jobs Analysis](https://github.com/mddang3/Projects/blob/c119ad79365a647e1fb158cd4190a306106dadd7/GithubJobs.ipynb)
 
 This program takes data from the GitHub Jobs API and iterates through each job listing, calculates the number of job postings for each language, orders by volume, and visualizes the data.  
@@ -17,7 +21,4 @@ These languages include:
 *MySQL Server  
 *PostgreSQL  
 *MongoDB  
-
-# Code Used  
-**Python Version:** 3.7  
-**Packages:** requests, pandas  
+ 
