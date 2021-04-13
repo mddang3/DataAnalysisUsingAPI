@@ -6,7 +6,7 @@ This program takes data from the GitHub Jobs API and iterates through each job l
   
 These languages include:  
 *C  
-*C#
+*C#  
 *C++  
 *Java
 *JavaScript  
