@@ -3,7 +3,7 @@
 # [Stock Comparisons Visualization](https://github.com/mddang3/Projects/blob/9b29b866b9d95ec1c3d5358d2c85c52569b2b1f5/Stock%20Tracker.ipynb)  
 
 **Code Used**  
-Python Version: 3.7
+Python Version: 3.7  
 Packages: yfinance, pandas, matplotlib.pyplot
 
 This program gathers stock data for Apple Inc. and Microsoft Corporation using yfinance stores the data into a dataframe. The data is then visualized with matplotlib.pyplot in order for comparisons to be drawn between the two corporations.    
