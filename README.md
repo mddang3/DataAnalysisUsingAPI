@@ -3,7 +3,7 @@
 ## Developer Survey Dashboard  
   
 **Code Used**  
-Python Version: 3.7
+Python Version: 3.7  
 Packages: pandas  
   
 Data was collected from various sources including job postings, training portals, and surveys. The data was converted into a dataframe, cleaned, and then normalized. The data was then imported into IBM Cognos and used to create an interactive dashboard displaying current and future technologies, including programming languages, databases, platforms, and web frames being utilized by IT professionals. Additionally, the demographics of the survey participants were collected and visualized.
